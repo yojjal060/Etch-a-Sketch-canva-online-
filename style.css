@@ -1,0 +1,14 @@
+#grid-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 100%;
+  }
+
+  .grid-item {
+    width: 5vh;
+    height: 5vh;
+    background-color: #eee;
+    border: 1px solid #ccc;
+
+  }
